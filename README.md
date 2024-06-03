@@ -7,3 +7,4 @@ Contains two (nearly) identical spreadsheets with the examples from region 2.
 2. \*.xlsx - Excel version, no graph
 
 
+![PDF Preview](https://github.com/craigchamplin/Drift-Metric-Files/Data-Drift-Paper-for-Publication-Exporter-04.png)
