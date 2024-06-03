@@ -6,6 +6,8 @@ Contains two (nearly) identical spreadsheets with the examples from region 2.
 1. \*.numbers - Apple Numbers version, contains the regional graph
 2. \*.xlsx - Excel version, no graph
 
+Contains a side-by-side comparison of drift, joint length, and interpolation and how they address the examples from Region Two in the paper.
+
 
 **Preview of Spreadsheets**
 
