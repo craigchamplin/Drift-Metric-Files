@@ -3,7 +3,7 @@ Data and code supporting "Drift: A position-specific metric for feature matching
 
 Contains two (nearly) identical spreadsheets with the examples from region 2.
 
-1. \*.numberes - Apple Numbers version, contains the regional graph
+1. \*.numbers - Apple Numbers version, contains the regional graph
 2. \*.xlsx - Excel version, no graph
 
 
