@@ -19,9 +19,12 @@ All the data for the toy example is in the paper. The graphical abstract uses th
 
 ### Data for Toy Example
 
-- Apple Numbers Spreadsheet
+- Apple Numbers Spreadsheet: [./Reconfiguration Example.numbers](<./Reconfiguration Example.numbers>)
+- Excel Spreadsheet: [./Reconfiguration Example.xlsx](<./Reconfiguration Example.xlsx>)
+- Comma Separated Values: [./Reconfiguration Example.csv](<./Reconfiguration Example.csv>)
+- PDF Print of Apple Spreadsheet: [./Reconfiguration Example.pdf](<./Reconfiguration Example.pdf>)
 
-[./Reconfiguration Example.numbers](<./Reconfiguration Example.numbers>)
+
 
 
 
