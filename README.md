@@ -30,10 +30,7 @@ The graphical abstract uses this data.
 
 This is the data from Section 6.3.1. 
 
-<img src="./Drift Paper Section 6.3.png" alt="Synthetic Example with Outliers v9" width=400 align=left />
-
-
-
+<img src="./Drift Paper Section 6.3.png" alt="Synthetic Example with Outliers v9" width=400 />
 
 
 ### Data for the comparison example
@@ -43,7 +40,6 @@ This is the data from Section 6.3.1.
 - Comma Separated Values: [./Drift Paper Section 6.3.csv](<./Drift Paper Section 6.3.csv>)
 - PDF Print of Apple Spreadsheet: [./Drift Paper Section 6.3.pdf](<./Drift Paper Section 6.3.pdf>)
 
-<br align=clear>
 
 ## Checking Assumptions Sec 7
 
