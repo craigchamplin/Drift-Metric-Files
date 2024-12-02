@@ -30,7 +30,7 @@ The graphical abstract uses this data.
 
 This is the data from Section 6.3.1. 
 
-<img src="./Drift Paper Section 6.3.png" alt="Synthetic Example with Outliers v9" />
+<img src="./Drift Paper Section 6.3.png" alt="Synthetic Example with Outliers v9" width=320 />
 
 
 
