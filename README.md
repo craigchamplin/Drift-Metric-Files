@@ -9,28 +9,39 @@ https://doi.org/10.1016/j.ijpvp.2024.105351
 
 
 
-## Toy Example
+## Reconfiguration Example Sec 6.1
 
-All the data for the toy example is in the paper. The graphical abstract uses this data.
+The graphical abstract uses this data.
 
-![Graphical Abstract](<./Graphical Abstract v6.png>)
-
-
-
-### Data for Toy Example
-
-- Apple Numbers Spreadsheet: [./Reconfiguration Example.numbers](<./Reconfiguration Example.numbers>)
-- Excel Spreadsheet: [./Reconfiguration Example.xlsx](<./Reconfiguration Example.xlsx>)
-- Comma Separated Values: [./Reconfiguration Example.csv](<./Reconfiguration Example.csv>)
-- PDF Print of Apple Spreadsheet: [./Reconfiguration Example.pdf](<./Reconfiguration Example.pdf>)
+![Graphical Abstract](<./Drift Paper Graphical Abstract.png>)
 
 
 
+### Data for reconfiguration example
+
+- Apple Numbers Spreadsheet: [./Drift Paper Section 6.1.numbers](<./Drift Paper Section 6.1.numbers>)
+- Excel Spreadsheet: [./Drift Paper Section 6.1.xlsx](<./Drift Paper Section 6.1.xlsx>)
+- Comma Separated Values: [./Drift Paper Section 6.1.csv](<./Drift Paper Section 6.1.csv>)
+- PDF Print of Apple Spreadsheet: [./Drift Paper Section 6.1.pdf](<./Drift Paper Section 6.1.pdf>)
+
+
+
+## Drift Differencing vs Zippering Example Sec 6.3
+
+This is the data from Section 6.3.1. 
+
+- Apple Numbers Spreadsheet: [./Drift Paper Section 6.3.numbers](<./Drift Paper Section 6.3.numbers>)
+- Excel Spreadsheet: [./Drift Paper Section 6.3.xlsx](<./Drift Paper Section 6.3.xlsx>)
+- Comma Separated Values: [./Drift Paper Section 6.3.csv](<./Drift Paper Section 6.3.csv>)
+- PDF Print of Apple Spreadsheet: [./Drift Paper Section 6.3.pdf](<./Drift Paper Section 6.3.pdf>)
 
 
 
 
-## Toy Data
+
+
+
+
 
 
 
