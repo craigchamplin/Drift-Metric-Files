@@ -36,9 +36,7 @@ This is the data from Section 6.3.1.
 
 
 
-### Data for comparison example
-
-- Apple Numbers Spreadsheet: [./Drift Paper Section 6.1.nu
+### Data for the comparison example
 
 - Apple Numbers Spreadsheet: [./Drift Paper Section 6.3.numbers](<./Drift Paper Section 6.3.numbers>)
 - Excel Spreadsheet: [./Drift Paper Section 6.3.xlsx](<./Drift Paper Section 6.3.xlsx>)
@@ -49,21 +47,20 @@ This is the data from Section 6.3.1.
 
 ## Checking Assumptions Sec 7
 
+### Descriptive Stats and Hypothesis Tests
+
+- Jupyter Notebook: [./Drift Paper Section 7.ipynb](<./Drift Paper Section 7.ipynb>)
+- Printout of Jupyter Notebook: [./Drift Paper Section 7.ipynb.pdf](<./Drift Paper Section 7.ipynb.pdf>)
 
 
-Autocorrelation
+
+### Smoothness Sec 7.2
+
+ (Lipschitz and 2nd Derivative)
+
+- Apple Numbers Spreadsheet: [./Drift Paper Section 7.2.numbers](<./Drift Paper Section 7.2.numbers>)
+- Excel Spreadsheet: [./Drift Paper Section 7.2.xlsx](<./Drift Paper Section 7.2.xlsx>)
+- PDF Print of Apple Spreadsheet: [./Drift Paper Section 7.2.numbers.pdf](<./Drift Paper Section 7.2.numbers.pdf>)
 
 
 
-All the data and results for the 
-
-Contains two (nearly) identical spreadsheets with the examples from region 2.
-
-1. \*.numbers - Apple Numbers version, contains the regional graph
-2. \*.xlsx - Excel version, no graph
-
-Contains a side-by-side comparison of drift, joint length, and interpolation and how they address the examples from Region Two in the paper.
-
-**Preview of Spreadsheets**
-
-![PDF Preview](./Data-Drift-Paper-for-Publication-Exporter-04.png)
