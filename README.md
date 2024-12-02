@@ -30,7 +30,9 @@ The graphical abstract uses this data.
 
 This is the data from Section 6.3.1. 
 
-<img src="https://github.com/craigchamplin/Drift-Metric-Files/README.assets/Synthetic Example with Outliers v9.png" alt="Synthetic Example with Outliers v9" style="zoom:33%;" align=left />
+<img src="./Drift Paper Section 6.3.png" alt="Synthetic Example with Outliers v9" />
+
+
 
 - Apple Numbers Spreadsheet: [./Drift Paper Section 6.3.numbers](<./Drift Paper Section 6.3.numbers>)
 - Excel Spreadsheet: [./Drift Paper Section 6.3.xlsx](<./Drift Paper Section 6.3.xlsx>)
@@ -41,7 +43,7 @@ This is the data from Section 6.3.1.
 
 README.assets/Synthetic Example with Outliers v9.png
 
-
+README.assets
 
 
 
