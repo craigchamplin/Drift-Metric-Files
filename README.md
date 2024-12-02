@@ -43,7 +43,7 @@ This is the data from Section 6.3.1.
 - Comma Separated Values: [./Drift Paper Section 6.3.csv](<./Drift Paper Section 6.3.csv>)
 - PDF Print of Apple Spreadsheet: [./Drift Paper Section 6.3.pdf](<./Drift Paper Section 6.3.pdf>)
 
-
+<br align=clear>
 
 ## Checking Assumptions Sec 7
 
