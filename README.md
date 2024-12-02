@@ -30,9 +30,15 @@ The graphical abstract uses this data.
 
 This is the data from Section 6.3.1. 
 
-<img src="./Drift Paper Section 6.3.png" alt="Synthetic Example with Outliers v9" width=320 />
+<img src="./Drift Paper Section 6.3.png" alt="Synthetic Example with Outliers v9" width=400 align=left />
 
 
+
+
+
+### Data for comparison example
+
+- Apple Numbers Spreadsheet: [./Drift Paper Section 6.1.nu
 
 - Apple Numbers Spreadsheet: [./Drift Paper Section 6.3.numbers](<./Drift Paper Section 6.3.numbers>)
 - Excel Spreadsheet: [./Drift Paper Section 6.3.xlsx](<./Drift Paper Section 6.3.xlsx>)
@@ -41,11 +47,11 @@ This is the data from Section 6.3.1.
 
 
 
-README.assets/Synthetic Example with Outliers v9.png
-
-README.assets
+## Checking Assumptions Sec 7
 
 
+
+Autocorrelation
 
 
 
