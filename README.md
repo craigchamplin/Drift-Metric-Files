@@ -17,9 +17,11 @@ All the data for the toy example is in the paper. The graphical abstract uses th
 
 
 
-### Data (Apple Numbers Spreadsheet)
+### Data for Toy Example
 
-[./Reconfiguration Example.numbers](<file://./Reconfiguration Example.numbers>)
+- Apple Numbers Spreadsheet
+
+[./Reconfiguration Example.numbers](<./Reconfiguration Example.numbers>)
 
 
 
