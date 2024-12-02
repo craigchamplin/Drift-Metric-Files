@@ -30,6 +30,8 @@ The graphical abstract uses this data.
 
 This is the data from Section 6.3.1. 
 
+<img src="./README.assets/Synthetic Example with Outliers v9.png" alt="Synthetic Example with Outliers v9" style="zoom:33%;" align=left />
+
 - Apple Numbers Spreadsheet: [./Drift Paper Section 6.3.numbers](<./Drift Paper Section 6.3.numbers>)
 - Excel Spreadsheet: [./Drift Paper Section 6.3.xlsx](<./Drift Paper Section 6.3.xlsx>)
 - Comma Separated Values: [./Drift Paper Section 6.3.csv](<./Drift Paper Section 6.3.csv>)
